@@ -14,7 +14,7 @@ internal class Program
         VerContactos();
     }
 
-    Contactos()
+    public Contactos()
     {
         string[] contactos;
         int[] telefono;
@@ -23,7 +23,6 @@ internal class Program
 
     public static void VerContactos()
     {
-
-    }
+        for  
 
 }
