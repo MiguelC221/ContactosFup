@@ -5,6 +5,7 @@ internal class Program
     static void Main(string[] args)
     {
         Console.WriteLine("--- Gestor de contactos----");
+        Console.WriteLine("1");
         VerContactos();
     }
 
